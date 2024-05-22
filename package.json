@@ -1,6 +1,6 @@
 {
   "name": "@jaminearth/turn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fork from blasten. To make it modularized, to use import statement.",
   "main": "index.js",
   "exports": "./index.js",
