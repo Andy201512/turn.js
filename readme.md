@@ -103,6 +103,10 @@ Turn.js is a plugin for jQuery that adds a beautiful transition similar to real 
 
 **JavaScript code:**
 ```javascript
+import $ from 'jquery';
+import { turnjsInit } from 'turn.js';
+
+turnjsInit($);
 $('#magazine').turn({gradients: true, acceleration: true});
 ```
 
