@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Andy201512/turn.js/issues"
   },
-  "homepage": "https://github.com/Andy201512/turn.js#readme"
+  "homepage": "https://github.com/Andy201512/turn.js#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
